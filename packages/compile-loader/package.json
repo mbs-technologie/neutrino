@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@babel/core": "^7.12.10",
-    "babel-loader": "^8.2.2"
+    "babel-loader": "^8.2.4"
   },
   "peerDependencies": {
     "neutrino": "^9.0.0",
