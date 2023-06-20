@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "lodash.clonedeep": "^4.5.0",
-    "semver": "^7.3.4",
+    "semver": "^7.5.2",
     "webpack-chain": "^6.5.1",
     "yargs-parser": "^20.2.4"
   }
