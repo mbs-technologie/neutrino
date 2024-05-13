@@ -46,7 +46,7 @@
     "javascript-stringify": "^2.0.1",
     "yargs": "^16.2.0",
     "yeoman-environment": "^2.10.3",
-    "yeoman-generator": "^4.12.0"
+    "yeoman-generator": "^5.0.0"
   },
   "devDependencies": {
     "yeoman-assert": "^3.1.1",
