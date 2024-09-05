@@ -28,7 +28,7 @@
     "yarn": ">=1.2.1"
   },
   "dependencies": {
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^7.23.2",
     "@babel/preset-react": "^7.12.10",
     "@neutrinojs/web": "9.5.0",
     "babel-merge": "^3.0.0",
