@@ -28,8 +28,8 @@
     "yarn": ">=1.2.1"
   },
   "dependencies": {
-    "@babel/core": "^7.12.10",
-    "@babel/plugin-transform-react-jsx": "^7.12.12",
+    "@babel/core": "^7.23.2",
+    "@babel/plugin-transform-react-jsx": "^7.14.5",
     "@neutrinojs/web": "9.5.0",
     "babel-merge": "^3.0.0",
     "deepmerge": "^1.5.2",
